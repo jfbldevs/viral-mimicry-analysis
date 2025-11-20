@@ -1,0 +1,167 @@
+{
+  "reorganization_date": "2025-10-17",
+  "total_families": 22,
+  "total_files_linked": 50,
+  "families": {
+    "Adenoviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000004992"
+      ]
+    },
+    "Arenaviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000002473"
+      ]
+    },
+    "Astroviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000001650"
+      ]
+    },
+    "Caliciviridae": {
+      "virus_count": 2,
+      "proteome_ids": [
+        "UP000000826",
+        "UP000007049"
+      ]
+    },
+    "Coronaviridae": {
+      "virus_count": 3,
+      "proteome_ids": [
+        "UP000139997",
+        "UP000000354",
+        "UP000464024"
+      ]
+    },
+    "Filoviridae": {
+      "virus_count": 2,
+      "proteome_ids": [
+        "UP000180448",
+        "UP000007209"
+      ]
+    },
+    "Flaviviridae": {
+      "virus_count": 4,
+      "proteome_ids": [
+        "UP000000360",
+        "UP000002500",
+        "UP000054557",
+        "UP000000518"
+      ]
+    },
+    "Hepadnaviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000008591"
+      ]
+    },
+    "Hepeviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000006705"
+      ]
+    },
+    "Herpesviridae": {
+      "virus_count": 8,
+      "proteome_ids": [
+        "UP000153037",
+        "UP000000938",
+        "UP000009294",
+        "UP000001874",
+        "UP000009295",
+        "UP000009246",
+        "UP000000942",
+        "UP000002602"
+      ]
+    },
+    "Nairoviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000008767"
+      ]
+    },
+    "Orthomyxoviridae": {
+      "virus_count": 3,
+      "proteome_ids": [
+        "UP000137932",
+        "UP000009255",
+        "UP000008158"
+      ]
+    },
+    "Papillomaviridae": {
+      "virus_count": 3,
+      "proteome_ids": [
+        "UP000009116",
+        "UP000009251",
+        "UP000009109"
+      ]
+    },
+    "Paramyxoviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000000472"
+      ]
+    },
+    "Parvoviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000140113"
+      ]
+    },
+    "Phenuiviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000002477"
+      ]
+    },
+    "Picornaviridae": {
+      "virus_count": 3,
+      "proteome_ids": [
+        "UP000006724",
+        "UP000000670",
+        "UP000007070"
+      ]
+    },
+    "Pneumoviridae": {
+      "virus_count": 2,
+      "proteome_ids": [
+        "UP000001398",
+        "UP000002472"
+      ]
+    },
+    "Polyomaviridae": {
+      "virus_count": 3,
+      "proteome_ids": [
+        "UP000008478",
+        "UP000007705",
+        "UP000153939"
+      ]
+    },
+    "Poxviridae": {
+      "virus_count": 3,
+      "proteome_ids": [
+        "UP000000869",
+        "UP000008269",
+        "UP000002060"
+      ]
+    },
+    "Retroviridae": {
+      "virus_count": 4,
+      "proteome_ids": [
+        "UP000007683",
+        "UP000009254",
+        "UP000002241",
+        "UP000002242"
+      ]
+    },
+    "Togaviridae": {
+      "virus_count": 1,
+      "proteome_ids": [
+        "UP000000569"
+      ]
+    }
+  }
+}
