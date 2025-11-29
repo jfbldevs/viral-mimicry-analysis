@@ -2,35 +2,13 @@
 
 **Manuscript:** Structural-functional trade-off constrains viral protein mimicry of human immune pathways
 
-**Authors:** [Your names]
-
-**Date:** 2025
+**Authors:** Jorge F. Beltrán, Lisandra Herrera Belén, Alejandro J. Yáñez, Aloyma Lugo Calas, Luis Jimenez
 
 ---
 
 ## Overview
 
 This directory contains all data and Python scripts required to reproduce the analyses reported in the manuscript. Scripts are numbered sequentially and should be executed in order.
-
----
-
-## Directory Structure
-
-```
-data_and_scripts/
-├── README.md
-├── requirements.txt
-├── virus_to_human_top5_neighbors_final_similarity.csv  # Main dataset
-├── sequences/                                           # Protein sequences
-│   ├── human/
-│   │   └── human_proteome.fasta                        # Homo sapiens proteome
-│   └── viruses/                                        # Viral proteomes by taxonomy
-│       ├── Picornaviridae/
-│       ├── Herpesviridae/
-│       ├── Retroviridae/
-│       └── [other families]/
-└── script_*.py                                          # Analysis scripts
-```
 
 ---
 
@@ -81,8 +59,6 @@ pip install -r requirements.txt
 - `VMS`: Virus Mimicry Score = 0.5 × S_sim + 0.5 × F_sim
 
 ### 2. Protein Sequences
-
-**Directory:** `sequences/`
 
 **Human proteome:** `sequences/human/human_proteome.fasta`
 
@@ -146,19 +122,6 @@ Each script can be executed independently. Ensure the main dataset file is in th
 
 ---
 
-## Output Files
-
-Scripts generate the following types of output:
-
-- **Statistical results:** `results_*.csv`
-- **Analysis reports:** `report_*.md`
-- **Figures:** `fig_*.png` (600 DPI, publication-ready)
-- **Models:** `model_*.pkl` (trained ML models)
-
-All outputs are saved in the working directory.
-
----
-
 ## Reproducibility
 
 ### Random Seed
@@ -174,12 +137,6 @@ All stochastic procedures use fixed random seed (42) to ensure reproducibility:
 - Non-parametric tests (Spearman correlation, Kruskal-Wallis)
 - Permutation-based validation
 - Multiple testing correction: Benjamini-Hochberg FDR
-
-### Figure Settings
-
-- Resolution: 600 DPI
-- Format: PNG
-- Font sizes: Publication-ready
 
 ---
 
@@ -197,7 +154,7 @@ All stochastic procedures use fixed random seed (42) to ensure reproducibility:
 
 If you use these scripts, please cite:
 
-[Your manuscript citation here]
+Under Review
 
 ---
 
@@ -209,7 +166,7 @@ For questions or issues, please contact: **beltran.lissabet.jf@gmail.com**
 
 ## License
 
-### Code (Python Scripts)
+### Code (Python 3)
 
 **MIT License**
 
